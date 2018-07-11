@@ -1,0 +1,462 @@
+2018-07-11 15:49:35,680: INFO:Loading the datasets
+2018-07-11 15:49:48,238: INFO:Loading the datasets
+2018-07-11 15:49:51,472: INFO:finished loading the datasets
+2018-07-11 15:49:54,939: INFO:Started training for 150 epochs
+2018-07-11 15:49:54,940: INFO:Running epoch: 1/150
+2018-07-11 15:49:57,754: INFO:Train Metrics: accuracy: 0.371 ; loss: 1.675
+2018-07-11 15:49:58,419: INFO:Val Metrics: accuracy: 0.543 ; loss: 1.263
+2018-07-11 15:49:58,509: INFO:New best accuracy found!
+2018-07-11 15:49:58,509: INFO:Running epoch: 2/150
+2018-07-11 15:50:01,088: INFO:Train Metrics: accuracy: 0.609 ; loss: 1.133
+2018-07-11 15:50:01,808: INFO:Val Metrics: accuracy: 0.619 ; loss: 1.079
+2018-07-11 15:50:01,828: INFO:New best accuracy found!
+2018-07-11 15:50:01,828: INFO:Running epoch: 3/150
+2018-07-11 15:50:04,554: INFO:Train Metrics: accuracy: 0.662 ; loss: 0.945
+2018-07-11 15:50:05,263: INFO:Val Metrics: accuracy: 0.656 ; loss: 1.001
+2018-07-11 15:50:05,283: INFO:New best accuracy found!
+2018-07-11 15:50:05,284: INFO:Running epoch: 4/150
+2018-07-11 15:50:08,057: INFO:Train Metrics: accuracy: 0.676 ; loss: 0.892
+2018-07-11 15:50:08,833: INFO:Val Metrics: accuracy: 0.677 ; loss: 0.927
+2018-07-11 15:50:08,861: INFO:New best accuracy found!
+2018-07-11 15:50:08,861: INFO:Running epoch: 5/150
+2018-07-11 15:50:11,593: INFO:Train Metrics: accuracy: 0.740 ; loss: 0.754
+2018-07-11 15:50:12,279: INFO:Val Metrics: accuracy: 0.687 ; loss: 0.913
+2018-07-11 15:50:12,312: INFO:New best accuracy found!
+2018-07-11 15:50:12,313: INFO:Running epoch: 6/150
+2018-07-11 15:50:14,879: INFO:Train Metrics: accuracy: 0.719 ; loss: 0.763
+2018-07-11 15:50:15,545: INFO:Val Metrics: accuracy: 0.701 ; loss: 0.890
+2018-07-11 15:50:15,563: INFO:New best accuracy found!
+2018-07-11 15:50:15,564: INFO:Running epoch: 7/150
+2018-07-11 15:50:18,299: INFO:Train Metrics: accuracy: 0.762 ; loss: 0.684
+2018-07-11 15:50:19,074: INFO:Val Metrics: accuracy: 0.693 ; loss: 0.920
+2018-07-11 15:50:19,084: INFO:Running epoch: 8/150
+2018-07-11 15:50:21,715: INFO:Train Metrics: accuracy: 0.816 ; loss: 0.551
+2018-07-11 15:50:22,384: INFO:Val Metrics: accuracy: 0.706 ; loss: 0.894
+2018-07-11 15:50:22,415: INFO:New best accuracy found!
+2018-07-11 15:50:22,416: INFO:Running epoch: 9/150
+2018-07-11 15:50:25,117: INFO:Train Metrics: accuracy: 0.773 ; loss: 0.624
+2018-07-11 15:50:25,811: INFO:Val Metrics: accuracy: 0.699 ; loss: 0.917
+2018-07-11 15:50:25,826: INFO:Running epoch: 10/150
+2018-07-11 15:50:28,516: INFO:Train Metrics: accuracy: 0.811 ; loss: 0.600
+2018-07-11 15:50:29,240: INFO:Val Metrics: accuracy: 0.706 ; loss: 0.921
+2018-07-11 15:50:29,260: INFO:New best accuracy found!
+2018-07-11 15:50:29,261: INFO:Running epoch: 11/150
+2018-07-11 15:50:31,868: INFO:Train Metrics: accuracy: 0.809 ; loss: 0.576
+2018-07-11 15:50:32,568: INFO:Val Metrics: accuracy: 0.692 ; loss: 0.990
+2018-07-11 15:50:32,579: INFO:Running epoch: 12/150
+2018-07-11 15:50:35,293: INFO:Train Metrics: accuracy: 0.814 ; loss: 0.567
+2018-07-11 15:50:35,983: INFO:Val Metrics: accuracy: 0.698 ; loss: 0.940
+2018-07-11 15:50:35,994: INFO:Running epoch: 13/150
+2018-07-11 15:50:38,827: INFO:Train Metrics: accuracy: 0.787 ; loss: 0.577
+2018-07-11 15:50:39,551: INFO:Val Metrics: accuracy: 0.700 ; loss: 0.992
+2018-07-11 15:50:39,564: INFO:Running epoch: 14/150
+2018-07-11 15:50:42,258: INFO:Train Metrics: accuracy: 0.836 ; loss: 0.479
+2018-07-11 15:50:42,942: INFO:Val Metrics: accuracy: 0.700 ; loss: 0.992
+2018-07-11 15:50:42,955: INFO:Running epoch: 15/150
+2018-07-11 15:50:45,691: INFO:Train Metrics: accuracy: 0.824 ; loss: 0.560
+2018-07-11 15:50:46,391: INFO:Val Metrics: accuracy: 0.689 ; loss: 1.032
+2018-07-11 15:50:46,403: INFO:Running epoch: 16/150
+2018-07-11 15:50:49,078: INFO:Train Metrics: accuracy: 0.836 ; loss: 0.499
+2018-07-11 15:50:49,759: INFO:Val Metrics: accuracy: 0.694 ; loss: 1.057
+2018-07-11 15:50:49,770: INFO:Running epoch: 17/150
+2018-07-11 15:50:52,460: INFO:Train Metrics: accuracy: 0.818 ; loss: 0.476
+2018-07-11 15:50:53,117: INFO:Val Metrics: accuracy: 0.697 ; loss: 1.033
+2018-07-11 15:50:53,128: INFO:Running epoch: 18/150
+2018-07-11 15:50:55,675: INFO:Train Metrics: accuracy: 0.854 ; loss: 0.442
+2018-07-11 15:50:56,401: INFO:Val Metrics: accuracy: 0.703 ; loss: 1.074
+2018-07-11 15:50:56,412: INFO:Running epoch: 19/150
+2018-07-11 15:50:59,058: INFO:Train Metrics: accuracy: 0.857 ; loss: 0.421
+2018-07-11 15:50:59,764: INFO:Val Metrics: accuracy: 0.702 ; loss: 1.069
+2018-07-11 15:50:59,775: INFO:Running epoch: 20/150
+2018-07-11 15:51:02,489: INFO:Train Metrics: accuracy: 0.863 ; loss: 0.386
+2018-07-11 15:51:03,203: INFO:Val Metrics: accuracy: 0.695 ; loss: 1.099
+2018-07-11 15:51:03,214: INFO:Running epoch: 21/150
+2018-07-11 15:51:05,955: INFO:Train Metrics: accuracy: 0.844 ; loss: 0.415
+2018-07-11 15:51:06,693: INFO:Val Metrics: accuracy: 0.700 ; loss: 1.149
+2018-07-11 15:51:06,704: INFO:Running epoch: 22/150
+2018-07-11 15:51:09,412: INFO:Train Metrics: accuracy: 0.844 ; loss: 0.358
+2018-07-11 15:51:10,117: INFO:Val Metrics: accuracy: 0.700 ; loss: 1.180
+2018-07-11 15:51:10,129: INFO:Running epoch: 23/150
+2018-07-11 15:51:12,866: INFO:Train Metrics: accuracy: 0.877 ; loss: 0.349
+2018-07-11 15:51:13,591: INFO:Val Metrics: accuracy: 0.701 ; loss: 1.175
+2018-07-11 15:51:13,613: INFO:Running epoch: 24/150
+2018-07-11 15:51:16,353: INFO:Train Metrics: accuracy: 0.863 ; loss: 0.368
+2018-07-11 15:51:17,076: INFO:Val Metrics: accuracy: 0.693 ; loss: 1.210
+2018-07-11 15:51:17,087: INFO:Running epoch: 25/150
+2018-07-11 15:51:19,837: INFO:Train Metrics: accuracy: 0.871 ; loss: 0.358
+2018-07-11 15:51:20,503: INFO:Val Metrics: accuracy: 0.691 ; loss: 1.225
+2018-07-11 15:51:20,514: INFO:Running epoch: 26/150
+2018-07-11 15:51:23,299: INFO:Train Metrics: accuracy: 0.871 ; loss: 0.352
+2018-07-11 15:51:24,010: INFO:Val Metrics: accuracy: 0.688 ; loss: 1.278
+2018-07-11 15:51:24,022: INFO:Running epoch: 27/150
+2018-07-11 15:51:26,696: INFO:Train Metrics: accuracy: 0.887 ; loss: 0.327
+2018-07-11 15:51:27,375: INFO:Val Metrics: accuracy: 0.689 ; loss: 1.264
+2018-07-11 15:51:27,387: INFO:Running epoch: 28/150
+2018-07-11 15:51:30,078: INFO:Train Metrics: accuracy: 0.869 ; loss: 0.328
+2018-07-11 15:51:30,804: INFO:Val Metrics: accuracy: 0.688 ; loss: 1.326
+2018-07-11 15:51:30,825: INFO:Running epoch: 29/150
+2018-07-11 15:51:33,583: INFO:Train Metrics: accuracy: 0.889 ; loss: 0.279
+2018-07-11 15:51:34,314: INFO:Val Metrics: accuracy: 0.689 ; loss: 1.308
+2018-07-11 15:51:34,326: INFO:Running epoch: 30/150
+2018-07-11 15:51:37,033: INFO:Train Metrics: accuracy: 0.881 ; loss: 0.338
+2018-07-11 15:51:37,712: INFO:Val Metrics: accuracy: 0.689 ; loss: 1.384
+2018-07-11 15:51:37,724: INFO:Running epoch: 31/150
+2018-07-11 15:51:40,516: INFO:Train Metrics: accuracy: 0.895 ; loss: 0.267
+2018-07-11 15:51:41,228: INFO:Val Metrics: accuracy: 0.694 ; loss: 1.410
+2018-07-11 15:51:41,239: INFO:Running epoch: 32/150
+2018-07-11 15:51:43,964: INFO:Train Metrics: accuracy: 0.877 ; loss: 0.294
+2018-07-11 15:51:44,680: INFO:Val Metrics: accuracy: 0.691 ; loss: 1.480
+2018-07-11 15:51:44,696: INFO:Running epoch: 33/150
+2018-07-11 15:51:47,509: INFO:Train Metrics: accuracy: 0.898 ; loss: 0.278
+2018-07-11 15:51:48,209: INFO:Val Metrics: accuracy: 0.687 ; loss: 1.471
+2018-07-11 15:51:48,224: INFO:Running epoch: 34/150
+2018-07-11 15:51:50,897: INFO:Train Metrics: accuracy: 0.920 ; loss: 0.204
+2018-07-11 15:51:51,561: INFO:Val Metrics: accuracy: 0.694 ; loss: 1.482
+2018-07-11 15:51:51,576: INFO:Running epoch: 35/150
+2018-07-11 15:51:54,308: INFO:Train Metrics: accuracy: 0.918 ; loss: 0.275
+2018-07-11 15:51:54,977: INFO:Val Metrics: accuracy: 0.686 ; loss: 1.493
+2018-07-11 15:51:54,987: INFO:Running epoch: 36/150
+2018-07-11 15:51:57,588: INFO:Train Metrics: accuracy: 0.906 ; loss: 0.274
+2018-07-11 15:51:58,235: INFO:Val Metrics: accuracy: 0.687 ; loss: 1.542
+2018-07-11 15:51:58,249: INFO:Running epoch: 37/150
+2018-07-11 15:52:00,896: INFO:Train Metrics: accuracy: 0.910 ; loss: 0.244
+2018-07-11 15:52:01,580: INFO:Val Metrics: accuracy: 0.694 ; loss: 1.546
+2018-07-11 15:52:01,590: INFO:Running epoch: 38/150
+2018-07-11 15:52:04,195: INFO:Train Metrics: accuracy: 0.920 ; loss: 0.249
+2018-07-11 15:52:04,868: INFO:Val Metrics: accuracy: 0.686 ; loss: 1.562
+2018-07-11 15:52:04,879: INFO:Running epoch: 39/150
+2018-07-11 15:52:07,539: INFO:Train Metrics: accuracy: 0.934 ; loss: 0.200
+2018-07-11 15:52:08,237: INFO:Val Metrics: accuracy: 0.693 ; loss: 1.584
+2018-07-11 15:52:08,248: INFO:Running epoch: 40/150
+2018-07-11 15:52:10,953: INFO:Train Metrics: accuracy: 0.912 ; loss: 0.246
+2018-07-11 15:52:11,617: INFO:Val Metrics: accuracy: 0.680 ; loss: 1.604
+2018-07-11 15:52:11,633: INFO:Running epoch: 41/150
+2018-07-11 15:52:14,323: INFO:Train Metrics: accuracy: 0.893 ; loss: 0.269
+2018-07-11 15:52:14,983: INFO:Val Metrics: accuracy: 0.686 ; loss: 1.695
+2018-07-11 15:52:14,997: INFO:Running epoch: 42/150
+2018-07-11 15:52:17,697: INFO:Train Metrics: accuracy: 0.906 ; loss: 0.219
+2018-07-11 15:52:18,397: INFO:Val Metrics: accuracy: 0.684 ; loss: 1.690
+2018-07-11 15:52:18,407: INFO:Running epoch: 43/150
+2018-07-11 15:52:21,022: INFO:Train Metrics: accuracy: 0.914 ; loss: 0.241
+2018-07-11 15:52:21,729: INFO:Val Metrics: accuracy: 0.683 ; loss: 1.756
+2018-07-11 15:52:21,742: INFO:Running epoch: 44/150
+2018-07-11 15:52:24,403: INFO:Train Metrics: accuracy: 0.938 ; loss: 0.161
+2018-07-11 15:52:25,087: INFO:Val Metrics: accuracy: 0.681 ; loss: 1.849
+2018-07-11 15:52:25,097: INFO:Running epoch: 45/150
+2018-07-11 15:52:27,744: INFO:Train Metrics: accuracy: 0.928 ; loss: 0.209
+2018-07-11 15:52:28,398: INFO:Val Metrics: accuracy: 0.677 ; loss: 1.772
+2018-07-11 15:52:28,408: INFO:Running epoch: 46/150
+2018-07-11 15:52:31,047: INFO:Train Metrics: accuracy: 0.934 ; loss: 0.194
+2018-07-11 15:52:31,762: INFO:Val Metrics: accuracy: 0.679 ; loss: 1.836
+2018-07-11 15:52:31,773: INFO:Running epoch: 47/150
+2018-07-11 15:52:34,416: INFO:Train Metrics: accuracy: 0.926 ; loss: 0.193
+2018-07-11 15:52:35,100: INFO:Val Metrics: accuracy: 0.675 ; loss: 1.789
+2018-07-11 15:52:35,115: INFO:Running epoch: 48/150
+2018-07-11 15:52:37,788: INFO:Train Metrics: accuracy: 0.902 ; loss: 0.297
+2018-07-11 15:52:38,484: INFO:Val Metrics: accuracy: 0.683 ; loss: 1.960
+2018-07-11 15:52:38,500: INFO:Running epoch: 49/150
+2018-07-11 15:52:41,194: INFO:Train Metrics: accuracy: 0.918 ; loss: 0.248
+2018-07-11 15:52:41,896: INFO:Val Metrics: accuracy: 0.678 ; loss: 1.907
+2018-07-11 15:52:41,907: INFO:Running epoch: 50/150
+2018-07-11 15:52:44,488: INFO:Train Metrics: accuracy: 0.920 ; loss: 0.253
+2018-07-11 15:52:45,222: INFO:Val Metrics: accuracy: 0.691 ; loss: 1.917
+2018-07-11 15:52:45,236: INFO:Running epoch: 51/150
+2018-07-11 15:52:47,982: INFO:Train Metrics: accuracy: 0.934 ; loss: 0.174
+2018-07-11 15:52:48,676: INFO:Val Metrics: accuracy: 0.677 ; loss: 1.986
+2018-07-11 15:52:48,692: INFO:Running epoch: 52/150
+2018-07-11 15:52:51,293: INFO:Train Metrics: accuracy: 0.932 ; loss: 0.204
+2018-07-11 15:52:52,003: INFO:Val Metrics: accuracy: 0.683 ; loss: 1.944
+2018-07-11 15:52:52,014: INFO:Running epoch: 53/150
+2018-07-11 15:52:54,663: INFO:Train Metrics: accuracy: 0.918 ; loss: 0.214
+2018-07-11 15:52:55,361: INFO:Val Metrics: accuracy: 0.675 ; loss: 2.127
+2018-07-11 15:52:55,374: INFO:Running epoch: 54/150
+2018-07-11 15:52:58,027: INFO:Train Metrics: accuracy: 0.939 ; loss: 0.191
+2018-07-11 15:52:58,708: INFO:Val Metrics: accuracy: 0.685 ; loss: 2.043
+2018-07-11 15:52:58,723: INFO:Running epoch: 55/150
+2018-07-11 15:53:01,353: INFO:Train Metrics: accuracy: 0.934 ; loss: 0.202
+2018-07-11 15:53:02,094: INFO:Val Metrics: accuracy: 0.679 ; loss: 2.092
+2018-07-11 15:53:02,108: INFO:Running epoch: 56/150
+2018-07-11 15:53:04,810: INFO:Train Metrics: accuracy: 0.934 ; loss: 0.160
+2018-07-11 15:53:05,547: INFO:Val Metrics: accuracy: 0.673 ; loss: 2.151
+2018-07-11 15:53:05,560: INFO:Running epoch: 57/150
+2018-07-11 15:53:08,385: INFO:Train Metrics: accuracy: 0.912 ; loss: 0.242
+2018-07-11 15:53:09,082: INFO:Val Metrics: accuracy: 0.675 ; loss: 2.109
+2018-07-11 15:53:09,093: INFO:Running epoch: 58/150
+2018-07-11 15:53:11,735: INFO:Train Metrics: accuracy: 0.918 ; loss: 0.260
+2018-07-11 15:53:12,432: INFO:Val Metrics: accuracy: 0.672 ; loss: 2.161
+2018-07-11 15:53:12,444: INFO:Running epoch: 59/150
+2018-07-11 15:53:14,949: INFO:Train Metrics: accuracy: 0.936 ; loss: 0.180
+2018-07-11 15:53:15,642: INFO:Val Metrics: accuracy: 0.683 ; loss: 2.169
+2018-07-11 15:53:15,654: INFO:Running epoch: 60/150
+2018-07-11 15:53:18,145: INFO:Train Metrics: accuracy: 0.934 ; loss: 0.191
+2018-07-11 15:53:18,803: INFO:Val Metrics: accuracy: 0.679 ; loss: 2.151
+2018-07-11 15:53:18,818: INFO:Running epoch: 61/150
+2018-07-11 15:53:21,372: INFO:Train Metrics: accuracy: 0.943 ; loss: 0.154
+2018-07-11 15:53:22,065: INFO:Val Metrics: accuracy: 0.684 ; loss: 2.156
+2018-07-11 15:53:22,077: INFO:Running epoch: 62/150
+2018-07-11 15:53:24,644: INFO:Train Metrics: accuracy: 0.938 ; loss: 0.179
+2018-07-11 15:53:25,299: INFO:Val Metrics: accuracy: 0.674 ; loss: 2.290
+2018-07-11 15:53:25,310: INFO:Running epoch: 63/150
+2018-07-11 15:53:27,906: INFO:Train Metrics: accuracy: 0.951 ; loss: 0.125
+2018-07-11 15:53:28,606: INFO:Val Metrics: accuracy: 0.677 ; loss: 2.210
+2018-07-11 15:53:28,617: INFO:Running epoch: 64/150
+2018-07-11 15:53:31,166: INFO:Train Metrics: accuracy: 0.945 ; loss: 0.130
+2018-07-11 15:53:31,820: INFO:Val Metrics: accuracy: 0.684 ; loss: 2.226
+2018-07-11 15:53:31,832: INFO:Running epoch: 65/150
+2018-07-11 15:53:34,425: INFO:Train Metrics: accuracy: 0.938 ; loss: 0.164
+2018-07-11 15:53:35,141: INFO:Val Metrics: accuracy: 0.678 ; loss: 2.316
+2018-07-11 15:53:35,152: INFO:Running epoch: 66/150
+2018-07-11 15:53:37,770: INFO:Train Metrics: accuracy: 0.941 ; loss: 0.160
+2018-07-11 15:53:38,522: INFO:Val Metrics: accuracy: 0.667 ; loss: 2.300
+2018-07-11 15:53:38,534: INFO:Running epoch: 67/150
+2018-07-11 15:53:41,120: INFO:Train Metrics: accuracy: 0.943 ; loss: 0.190
+2018-07-11 15:53:41,820: INFO:Val Metrics: accuracy: 0.685 ; loss: 2.352
+2018-07-11 15:53:41,838: INFO:Running epoch: 68/150
+2018-07-11 15:53:44,486: INFO:Train Metrics: accuracy: 0.943 ; loss: 0.169
+2018-07-11 15:53:45,173: INFO:Val Metrics: accuracy: 0.675 ; loss: 2.356
+2018-07-11 15:53:45,190: INFO:Running epoch: 69/150
+2018-07-11 15:53:47,721: INFO:Train Metrics: accuracy: 0.947 ; loss: 0.211
+2018-07-11 15:53:48,352: INFO:Val Metrics: accuracy: 0.674 ; loss: 2.531
+2018-07-11 15:53:48,362: INFO:Running epoch: 70/150
+2018-07-11 15:53:50,974: INFO:Train Metrics: accuracy: 0.928 ; loss: 0.208
+2018-07-11 15:53:51,631: INFO:Val Metrics: accuracy: 0.667 ; loss: 2.399
+2018-07-11 15:53:51,642: INFO:Running epoch: 71/150
+2018-07-11 15:53:54,236: INFO:Train Metrics: accuracy: 0.947 ; loss: 0.157
+2018-07-11 15:53:54,924: INFO:Val Metrics: accuracy: 0.686 ; loss: 2.464
+2018-07-11 15:53:54,939: INFO:Running epoch: 72/150
+2018-07-11 15:53:57,538: INFO:Train Metrics: accuracy: 0.938 ; loss: 0.139
+2018-07-11 15:53:58,244: INFO:Val Metrics: accuracy: 0.671 ; loss: 2.476
+2018-07-11 15:53:58,257: INFO:Running epoch: 73/150
+2018-07-11 15:54:00,794: INFO:Train Metrics: accuracy: 0.926 ; loss: 0.242
+2018-07-11 15:54:01,457: INFO:Val Metrics: accuracy: 0.678 ; loss: 2.451
+2018-07-11 15:54:01,468: INFO:Running epoch: 74/150
+2018-07-11 15:54:04,053: INFO:Train Metrics: accuracy: 0.932 ; loss: 0.196
+2018-07-11 15:54:04,707: INFO:Val Metrics: accuracy: 0.677 ; loss: 2.494
+2018-07-11 15:54:04,720: INFO:Running epoch: 75/150
+2018-07-11 15:54:07,242: INFO:Train Metrics: accuracy: 0.936 ; loss: 0.176
+2018-07-11 15:54:07,893: INFO:Val Metrics: accuracy: 0.679 ; loss: 2.512
+2018-07-11 15:54:07,912: INFO:Running epoch: 76/150
+2018-07-11 15:54:10,504: INFO:Train Metrics: accuracy: 0.949 ; loss: 0.142
+2018-07-11 15:54:11,180: INFO:Val Metrics: accuracy: 0.683 ; loss: 2.571
+2018-07-11 15:54:11,192: INFO:Running epoch: 77/150
+2018-07-11 15:54:13,709: INFO:Train Metrics: accuracy: 0.941 ; loss: 0.157
+2018-07-11 15:54:14,447: INFO:Val Metrics: accuracy: 0.676 ; loss: 2.543
+2018-07-11 15:54:14,463: INFO:Running epoch: 78/150
+2018-07-11 15:54:17,107: INFO:Train Metrics: accuracy: 0.930 ; loss: 0.234
+2018-07-11 15:54:17,828: INFO:Val Metrics: accuracy: 0.684 ; loss: 2.577
+2018-07-11 15:54:17,839: INFO:Running epoch: 79/150
+2018-07-11 15:54:20,322: INFO:Train Metrics: accuracy: 0.947 ; loss: 0.145
+2018-07-11 15:54:20,998: INFO:Val Metrics: accuracy: 0.685 ; loss: 2.669
+2018-07-11 15:54:21,009: INFO:Running epoch: 80/150
+2018-07-11 15:54:23,586: INFO:Train Metrics: accuracy: 0.971 ; loss: 0.082
+2018-07-11 15:54:24,303: INFO:Val Metrics: accuracy: 0.666 ; loss: 2.731
+2018-07-11 15:54:24,314: INFO:Running epoch: 81/150
+2018-07-11 15:54:26,846: INFO:Train Metrics: accuracy: 0.932 ; loss: 0.172
+2018-07-11 15:54:27,515: INFO:Val Metrics: accuracy: 0.676 ; loss: 2.671
+2018-07-11 15:54:27,530: INFO:Running epoch: 82/150
+2018-07-11 15:54:30,212: INFO:Train Metrics: accuracy: 0.949 ; loss: 0.162
+2018-07-11 15:54:30,918: INFO:Val Metrics: accuracy: 0.676 ; loss: 2.546
+2018-07-11 15:54:30,929: INFO:Running epoch: 83/150
+2018-07-11 15:54:33,447: INFO:Train Metrics: accuracy: 0.939 ; loss: 0.141
+2018-07-11 15:54:34,134: INFO:Val Metrics: accuracy: 0.668 ; loss: 2.759
+2018-07-11 15:54:34,146: INFO:Running epoch: 84/150
+2018-07-11 15:54:36,679: INFO:Train Metrics: accuracy: 0.939 ; loss: 0.170
+2018-07-11 15:54:37,404: INFO:Val Metrics: accuracy: 0.675 ; loss: 2.784
+2018-07-11 15:54:37,417: INFO:Running epoch: 85/150
+2018-07-11 15:54:39,897: INFO:Train Metrics: accuracy: 0.939 ; loss: 0.157
+2018-07-11 15:54:40,536: INFO:Val Metrics: accuracy: 0.674 ; loss: 2.635
+2018-07-11 15:54:40,549: INFO:Running epoch: 86/150
+2018-07-11 15:54:43,219: INFO:Train Metrics: accuracy: 0.957 ; loss: 0.098
+2018-07-11 15:54:43,903: INFO:Val Metrics: accuracy: 0.679 ; loss: 2.705
+2018-07-11 15:54:43,919: INFO:Running epoch: 87/150
+2018-07-11 15:54:46,591: INFO:Train Metrics: accuracy: 0.957 ; loss: 0.185
+2018-07-11 15:54:47,307: INFO:Val Metrics: accuracy: 0.669 ; loss: 2.802
+2018-07-11 15:54:47,321: INFO:Running epoch: 88/150
+2018-07-11 15:54:49,947: INFO:Train Metrics: accuracy: 0.975 ; loss: 0.075
+2018-07-11 15:54:50,654: INFO:Val Metrics: accuracy: 0.675 ; loss: 2.857
+2018-07-11 15:54:50,665: INFO:Running epoch: 89/150
+2018-07-11 15:54:53,336: INFO:Train Metrics: accuracy: 0.953 ; loss: 0.117
+2018-07-11 15:54:53,971: INFO:Val Metrics: accuracy: 0.679 ; loss: 2.854
+2018-07-11 15:54:53,988: INFO:Running epoch: 90/150
+2018-07-11 15:54:56,474: INFO:Train Metrics: accuracy: 0.951 ; loss: 0.111
+2018-07-11 15:54:57,131: INFO:Val Metrics: accuracy: 0.675 ; loss: 2.967
+2018-07-11 15:54:57,142: INFO:Running epoch: 91/150
+2018-07-11 15:54:59,654: INFO:Train Metrics: accuracy: 0.936 ; loss: 0.151
+2018-07-11 15:55:00,321: INFO:Val Metrics: accuracy: 0.670 ; loss: 2.909
+2018-07-11 15:55:00,336: INFO:Running epoch: 92/150
+2018-07-11 15:55:02,983: INFO:Train Metrics: accuracy: 0.945 ; loss: 0.137
+2018-07-11 15:55:03,682: INFO:Val Metrics: accuracy: 0.674 ; loss: 3.004
+2018-07-11 15:55:03,695: INFO:Running epoch: 93/150
+2018-07-11 15:55:06,238: INFO:Train Metrics: accuracy: 0.963 ; loss: 0.131
+2018-07-11 15:55:06,927: INFO:Val Metrics: accuracy: 0.670 ; loss: 3.096
+2018-07-11 15:55:06,943: INFO:Running epoch: 94/150
+2018-07-11 15:55:09,596: INFO:Train Metrics: accuracy: 0.936 ; loss: 0.226
+2018-07-11 15:55:10,266: INFO:Val Metrics: accuracy: 0.675 ; loss: 2.860
+2018-07-11 15:55:10,277: INFO:Running epoch: 95/150
+2018-07-11 15:55:12,913: INFO:Train Metrics: accuracy: 0.945 ; loss: 0.152
+2018-07-11 15:55:13,664: INFO:Val Metrics: accuracy: 0.675 ; loss: 2.978
+2018-07-11 15:55:13,679: INFO:Running epoch: 96/150
+2018-07-11 15:55:16,221: INFO:Train Metrics: accuracy: 0.916 ; loss: 0.219
+2018-07-11 15:55:16,803: INFO:Val Metrics: accuracy: 0.670 ; loss: 3.008
+2018-07-11 15:55:16,814: INFO:Running epoch: 97/150
+2018-07-11 15:55:19,398: INFO:Train Metrics: accuracy: 0.951 ; loss: 0.129
+2018-07-11 15:55:20,046: INFO:Val Metrics: accuracy: 0.677 ; loss: 2.989
+2018-07-11 15:55:20,061: INFO:Running epoch: 98/150
+2018-07-11 15:55:22,700: INFO:Train Metrics: accuracy: 0.955 ; loss: 0.133
+2018-07-11 15:55:23,377: INFO:Val Metrics: accuracy: 0.672 ; loss: 3.077
+2018-07-11 15:55:23,388: INFO:Running epoch: 99/150
+2018-07-11 15:55:25,878: INFO:Train Metrics: accuracy: 0.963 ; loss: 0.106
+2018-07-11 15:55:26,551: INFO:Val Metrics: accuracy: 0.672 ; loss: 2.995
+2018-07-11 15:55:26,561: INFO:Running epoch: 100/150
+2018-07-11 15:55:29,101: INFO:Train Metrics: accuracy: 0.957 ; loss: 0.121
+2018-07-11 15:55:29,796: INFO:Val Metrics: accuracy: 0.674 ; loss: 2.963
+2018-07-11 15:55:29,812: INFO:Running epoch: 101/150
+2018-07-11 15:55:32,422: INFO:Train Metrics: accuracy: 0.951 ; loss: 0.136
+2018-07-11 15:55:33,091: INFO:Val Metrics: accuracy: 0.671 ; loss: 3.034
+2018-07-11 15:55:33,106: INFO:Running epoch: 102/150
+2018-07-11 15:55:35,515: INFO:Train Metrics: accuracy: 0.939 ; loss: 0.182
+2018-07-11 15:55:36,201: INFO:Val Metrics: accuracy: 0.673 ; loss: 3.060
+2018-07-11 15:55:36,213: INFO:Running epoch: 103/150
+2018-07-11 15:55:38,903: INFO:Train Metrics: accuracy: 0.939 ; loss: 0.187
+2018-07-11 15:55:39,577: INFO:Val Metrics: accuracy: 0.670 ; loss: 3.161
+2018-07-11 15:55:39,589: INFO:Running epoch: 104/150
+2018-07-11 15:55:42,150: INFO:Train Metrics: accuracy: 0.947 ; loss: 0.142
+2018-07-11 15:55:42,847: INFO:Val Metrics: accuracy: 0.670 ; loss: 3.081
+2018-07-11 15:55:42,859: INFO:Running epoch: 105/150
+2018-07-11 15:55:45,341: INFO:Train Metrics: accuracy: 0.945 ; loss: 0.178
+2018-07-11 15:55:46,013: INFO:Val Metrics: accuracy: 0.670 ; loss: 3.104
+2018-07-11 15:55:46,024: INFO:Running epoch: 106/150
+2018-07-11 15:55:48,542: INFO:Train Metrics: accuracy: 0.957 ; loss: 0.151
+2018-07-11 15:55:49,216: INFO:Val Metrics: accuracy: 0.677 ; loss: 3.108
+2018-07-11 15:55:49,227: INFO:Running epoch: 107/150
+2018-07-11 15:55:51,744: INFO:Train Metrics: accuracy: 0.959 ; loss: 0.107
+2018-07-11 15:55:52,443: INFO:Val Metrics: accuracy: 0.679 ; loss: 3.070
+2018-07-11 15:55:52,454: INFO:Running epoch: 108/150
+2018-07-11 15:55:55,226: INFO:Train Metrics: accuracy: 0.959 ; loss: 0.116
+2018-07-11 15:55:55,882: INFO:Val Metrics: accuracy: 0.682 ; loss: 3.240
+2018-07-11 15:55:55,897: INFO:Running epoch: 109/150
+2018-07-11 15:55:58,519: INFO:Train Metrics: accuracy: 0.953 ; loss: 0.156
+2018-07-11 15:55:59,231: INFO:Val Metrics: accuracy: 0.675 ; loss: 3.225
+2018-07-11 15:55:59,242: INFO:Running epoch: 110/150
+2018-07-11 15:56:01,809: INFO:Train Metrics: accuracy: 0.973 ; loss: 0.091
+2018-07-11 15:56:02,465: INFO:Val Metrics: accuracy: 0.681 ; loss: 3.240
+2018-07-11 15:56:02,480: INFO:Running epoch: 111/150
+2018-07-11 15:56:05,040: INFO:Train Metrics: accuracy: 0.973 ; loss: 0.093
+2018-07-11 15:56:05,722: INFO:Val Metrics: accuracy: 0.662 ; loss: 3.272
+2018-07-11 15:56:05,737: INFO:Running epoch: 112/150
+2018-07-11 15:56:08,310: INFO:Train Metrics: accuracy: 0.957 ; loss: 0.153
+2018-07-11 15:56:08,978: INFO:Val Metrics: accuracy: 0.670 ; loss: 3.304
+2018-07-11 15:56:08,990: INFO:Running epoch: 113/150
+2018-07-11 15:56:11,572: INFO:Train Metrics: accuracy: 0.957 ; loss: 0.120
+2018-07-11 15:56:12,233: INFO:Val Metrics: accuracy: 0.669 ; loss: 3.360
+2018-07-11 15:56:12,244: INFO:Running epoch: 114/150
+2018-07-11 15:56:14,874: INFO:Train Metrics: accuracy: 0.947 ; loss: 0.194
+2018-07-11 15:56:15,546: INFO:Val Metrics: accuracy: 0.674 ; loss: 3.406
+2018-07-11 15:56:15,562: INFO:Running epoch: 115/150
+2018-07-11 15:56:18,166: INFO:Train Metrics: accuracy: 0.943 ; loss: 0.136
+2018-07-11 15:56:18,877: INFO:Val Metrics: accuracy: 0.680 ; loss: 3.328
+2018-07-11 15:56:18,891: INFO:Running epoch: 116/150
+2018-07-11 15:56:21,491: INFO:Train Metrics: accuracy: 0.971 ; loss: 0.084
+2018-07-11 15:56:22,164: INFO:Val Metrics: accuracy: 0.676 ; loss: 3.472
+2018-07-11 15:56:22,175: INFO:Running epoch: 117/150
+2018-07-11 15:56:24,731: INFO:Train Metrics: accuracy: 0.963 ; loss: 0.094
+2018-07-11 15:56:25,355: INFO:Val Metrics: accuracy: 0.668 ; loss: 3.318
+2018-07-11 15:56:25,366: INFO:Running epoch: 118/150
+2018-07-11 15:56:27,817: INFO:Train Metrics: accuracy: 0.963 ; loss: 0.100
+2018-07-11 15:56:28,490: INFO:Val Metrics: accuracy: 0.672 ; loss: 3.482
+2018-07-11 15:56:28,506: INFO:Running epoch: 119/150
+2018-07-11 15:56:31,149: INFO:Train Metrics: accuracy: 0.949 ; loss: 0.155
+2018-07-11 15:56:31,820: INFO:Val Metrics: accuracy: 0.677 ; loss: 3.320
+2018-07-11 15:56:31,837: INFO:Running epoch: 120/150
+2018-07-11 15:56:34,418: INFO:Train Metrics: accuracy: 0.951 ; loss: 0.173
+2018-07-11 15:56:35,071: INFO:Val Metrics: accuracy: 0.671 ; loss: 3.483
+2018-07-11 15:56:35,082: INFO:Running epoch: 121/150
+2018-07-11 15:56:37,606: INFO:Train Metrics: accuracy: 0.953 ; loss: 0.159
+2018-07-11 15:56:38,262: INFO:Val Metrics: accuracy: 0.668 ; loss: 3.368
+2018-07-11 15:56:38,274: INFO:Running epoch: 122/150
+2018-07-11 15:56:40,830: INFO:Train Metrics: accuracy: 0.941 ; loss: 0.164
+2018-07-11 15:56:41,489: INFO:Val Metrics: accuracy: 0.674 ; loss: 3.525
+2018-07-11 15:56:41,500: INFO:Running epoch: 123/150
+2018-07-11 15:56:44,065: INFO:Train Metrics: accuracy: 0.971 ; loss: 0.110
+2018-07-11 15:56:44,690: INFO:Val Metrics: accuracy: 0.669 ; loss: 3.615
+2018-07-11 15:56:44,701: INFO:Running epoch: 124/150
+2018-07-11 15:56:47,135: INFO:Train Metrics: accuracy: 0.955 ; loss: 0.085
+2018-07-11 15:56:47,792: INFO:Val Metrics: accuracy: 0.664 ; loss: 3.662
+2018-07-11 15:56:47,808: INFO:Running epoch: 125/150
+2018-07-11 15:56:50,439: INFO:Train Metrics: accuracy: 0.949 ; loss: 0.179
+2018-07-11 15:56:51,105: INFO:Val Metrics: accuracy: 0.672 ; loss: 3.553
+2018-07-11 15:56:51,120: INFO:Running epoch: 126/150
+2018-07-11 15:56:53,586: INFO:Train Metrics: accuracy: 0.953 ; loss: 0.118
+2018-07-11 15:56:54,227: INFO:Val Metrics: accuracy: 0.682 ; loss: 3.559
+2018-07-11 15:56:54,238: INFO:Running epoch: 127/150
+2018-07-11 15:56:56,611: INFO:Train Metrics: accuracy: 0.963 ; loss: 0.133
+2018-07-11 15:56:57,277: INFO:Val Metrics: accuracy: 0.678 ; loss: 3.606
+2018-07-11 15:56:57,289: INFO:Running epoch: 128/150
+2018-07-11 15:56:59,875: INFO:Train Metrics: accuracy: 0.955 ; loss: 0.149
+2018-07-11 15:57:00,545: INFO:Val Metrics: accuracy: 0.670 ; loss: 3.575
+2018-07-11 15:57:00,560: INFO:Running epoch: 129/150
+2018-07-11 15:57:03,062: INFO:Train Metrics: accuracy: 0.969 ; loss: 0.125
+2018-07-11 15:57:03,730: INFO:Val Metrics: accuracy: 0.665 ; loss: 3.657
+2018-07-11 15:57:03,741: INFO:Running epoch: 130/150
+2018-07-11 15:57:06,314: INFO:Train Metrics: accuracy: 0.971 ; loss: 0.131
+2018-07-11 15:57:06,962: INFO:Val Metrics: accuracy: 0.680 ; loss: 3.554
+2018-07-11 15:57:06,973: INFO:Running epoch: 131/150
+2018-07-11 15:57:09,414: INFO:Train Metrics: accuracy: 0.963 ; loss: 0.125
+2018-07-11 15:57:10,100: INFO:Val Metrics: accuracy: 0.671 ; loss: 3.674
+2018-07-11 15:57:10,116: INFO:Running epoch: 132/150
+2018-07-11 15:57:12,707: INFO:Train Metrics: accuracy: 0.959 ; loss: 0.173
+2018-07-11 15:57:13,408: INFO:Val Metrics: accuracy: 0.672 ; loss: 3.581
+2018-07-11 15:57:13,419: INFO:Running epoch: 133/150
+2018-07-11 15:57:16,109: INFO:Train Metrics: accuracy: 0.973 ; loss: 0.122
+2018-07-11 15:57:16,784: INFO:Val Metrics: accuracy: 0.672 ; loss: 3.605
+2018-07-11 15:57:16,799: INFO:Running epoch: 134/150
+2018-07-11 15:57:19,372: INFO:Train Metrics: accuracy: 0.959 ; loss: 0.116
+2018-07-11 15:57:20,033: INFO:Val Metrics: accuracy: 0.666 ; loss: 3.758
+2018-07-11 15:57:20,045: INFO:Running epoch: 135/150
+2018-07-11 15:57:22,506: INFO:Train Metrics: accuracy: 0.971 ; loss: 0.131
+2018-07-11 15:57:23,143: INFO:Val Metrics: accuracy: 0.670 ; loss: 3.799
+2018-07-11 15:57:23,154: INFO:Running epoch: 136/150
+2018-07-11 15:57:25,736: INFO:Train Metrics: accuracy: 0.941 ; loss: 0.153
+2018-07-11 15:57:26,401: INFO:Val Metrics: accuracy: 0.679 ; loss: 3.747
+2018-07-11 15:57:26,420: INFO:Running epoch: 137/150
+2018-07-11 15:57:29,007: INFO:Train Metrics: accuracy: 0.955 ; loss: 0.132
+2018-07-11 15:57:29,681: INFO:Val Metrics: accuracy: 0.676 ; loss: 3.719
+2018-07-11 15:57:29,692: INFO:Running epoch: 138/150
+2018-07-11 15:57:32,151: INFO:Train Metrics: accuracy: 0.963 ; loss: 0.154
+2018-07-11 15:57:32,782: INFO:Val Metrics: accuracy: 0.672 ; loss: 3.735
+2018-07-11 15:57:32,797: INFO:Running epoch: 139/150
+2018-07-11 15:57:35,401: INFO:Train Metrics: accuracy: 0.941 ; loss: 0.219
+2018-07-11 15:57:36,050: INFO:Val Metrics: accuracy: 0.672 ; loss: 3.801
+2018-07-11 15:57:36,061: INFO:Running epoch: 140/150
+2018-07-11 15:57:38,679: INFO:Train Metrics: accuracy: 0.967 ; loss: 0.093
+2018-07-11 15:57:39,322: INFO:Val Metrics: accuracy: 0.673 ; loss: 3.839
+2018-07-11 15:57:39,333: INFO:Running epoch: 141/150
+2018-07-11 15:57:41,903: INFO:Train Metrics: accuracy: 0.973 ; loss: 0.070
+2018-07-11 15:57:42,582: INFO:Val Metrics: accuracy: 0.669 ; loss: 3.904
+2018-07-11 15:57:42,592: INFO:Running epoch: 142/150
+2018-07-11 15:57:45,158: INFO:Train Metrics: accuracy: 0.957 ; loss: 0.141
+2018-07-11 15:57:45,870: INFO:Val Metrics: accuracy: 0.676 ; loss: 3.805
+2018-07-11 15:57:45,880: INFO:Running epoch: 143/150
+2018-07-11 15:57:48,411: INFO:Train Metrics: accuracy: 0.973 ; loss: 0.144
+2018-07-11 15:57:49,098: INFO:Val Metrics: accuracy: 0.668 ; loss: 4.044
+2018-07-11 15:57:49,113: INFO:Running epoch: 144/150
+2018-07-11 15:57:51,703: INFO:Train Metrics: accuracy: 0.951 ; loss: 0.167
+2018-07-11 15:57:52,374: INFO:Val Metrics: accuracy: 0.672 ; loss: 4.023
+2018-07-11 15:57:52,385: INFO:Running epoch: 145/150
+2018-07-11 15:57:54,917: INFO:Train Metrics: accuracy: 0.963 ; loss: 0.099
+2018-07-11 15:57:55,590: INFO:Val Metrics: accuracy: 0.678 ; loss: 4.026
+2018-07-11 15:57:55,601: INFO:Running epoch: 146/150
+2018-07-11 15:57:58,173: INFO:Train Metrics: accuracy: 0.955 ; loss: 0.148
+2018-07-11 15:57:58,833: INFO:Val Metrics: accuracy: 0.669 ; loss: 3.982
+2018-07-11 15:57:58,847: INFO:Running epoch: 147/150
+2018-07-11 15:58:01,305: INFO:Train Metrics: accuracy: 0.963 ; loss: 0.117
+2018-07-11 15:58:01,922: INFO:Val Metrics: accuracy: 0.674 ; loss: 4.035
+2018-07-11 15:58:01,933: INFO:Running epoch: 148/150
+2018-07-11 15:58:04,387: INFO:Train Metrics: accuracy: 0.969 ; loss: 0.109
+2018-07-11 15:58:05,067: INFO:Val Metrics: accuracy: 0.666 ; loss: 3.921
+2018-07-11 15:58:05,083: INFO:Running epoch: 149/150
+2018-07-11 15:58:07,636: INFO:Train Metrics: accuracy: 0.945 ; loss: 0.166
+2018-07-11 15:58:08,260: INFO:Val Metrics: accuracy: 0.671 ; loss: 4.000
+2018-07-11 15:58:08,276: INFO:Running epoch: 150/150
+2018-07-11 15:58:10,749: INFO:Train Metrics: accuracy: 0.965 ; loss: 0.101
+2018-07-11 15:58:11,417: INFO:Val Metrics: accuracy: 0.677 ; loss: 3.982

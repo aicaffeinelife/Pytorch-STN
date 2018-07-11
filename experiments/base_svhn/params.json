@@ -1,0 +1,13 @@
+{
+    "model_name":"base",
+    "num_channels":32,
+    "initial_channel":3, 
+    "batch_size":128, 
+    "learning_rate":1e-3, 
+    "aug":"on",
+    "num_epochs":150, 
+    "dropout_rate":0.5,
+    "kernel_size":5, 
+    "save_summary_steps":100, 
+    "num_workers":4
+}
