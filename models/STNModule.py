@@ -45,8 +45,8 @@ class SpatialTransformer(nn.Module):
         Forward pass of the STN module. 
         x -> input feature map 
         """
-        batch_images = x 
-        x = F.relu(self.conv1(x))
+        batch_images = x
+        x = F.relu(self.conv1(x.detach()))
         x = F.relu(self.conv2(x))
         x = F.max_pool2d(x, 2)
         x = F.relu(self.conv3(x))
